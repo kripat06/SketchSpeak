@@ -4,4 +4,5 @@ SketchSpeak was built with collaboration of a member of our community with cereb
 ![SketchSpeak Demo](https://github.com/kripat06/SketchSpeak/blob/4e8c6f2f65589ed2b41c63b01eff292cc3f7c80b/images/potato_demo.gif)
 
 *Currently in Development*
+
 Team is working on using NLP to create sentences based on the word that is selected.
