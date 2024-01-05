@@ -1,7 +1,3 @@
-The Eiffel Tower
-The Great Wall of China
-The Mona Lisa
-aircraft carrier
 airplane
 alarm clock
 ambulance
@@ -25,7 +21,6 @@ bat
 bathtub
 beach
 bear
-beard
 bed
 bee
 belt
@@ -130,9 +125,7 @@ frog
 frying pan
 garden hose
 garden
-giraffe
-goatee
-golf club
+giraffegolf club
 grapes
 grass
 guitar
@@ -153,7 +146,6 @@ hospital
 hot air balloon
 hot dog
 hot tub
-hourglass
 house plant
 house
 hurricane
@@ -183,7 +175,6 @@ mailbox
 map
 marker
 matches
-megaphone
 mermaid
 microphone
 microwave
@@ -214,7 +205,6 @@ pants
 paper clip
 parachute
 parrot
-passport
 peanut
 pear
 peas
@@ -244,9 +234,7 @@ rainbow
 rake
 remote control
 rhinoceros
-rifle
 river
-roller coaster
 rollerskates
 sailboat
 sandwich
@@ -265,7 +253,6 @@ shorts
 shovel
 sink
 skateboard
-skull
 skyscraper
 sleeping bag
 smiley face
@@ -276,10 +263,8 @@ snowflake
 snowman
 soccer ball
 sock
-speedboat
 spider
 spoon
-spreadsheet
 square
 squiggle
 squirrel
@@ -287,25 +272,18 @@ stairs
 star
 steak
 stereo
-stethoscope
-stitches
 stop sign
 stove
 strawberry
-streetlight
-string bean
 submarine
 suitcase
 sun
 swan
 sweater
-swing set
 sword
-syringe
 t-shirt
 table
 teapot
-teddy-bear
 telephone
 television
 tennis racquet
@@ -337,9 +315,5 @@ waterslide
 whale
 wheel
 windmill
-wine bottle
-wine glass
-wristwatch
 yoga
 zebra
-zigzag
