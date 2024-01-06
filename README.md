@@ -2,7 +2,7 @@ SketchSpeak was built with collaboration of a member of our community with cereb
 
 *App Demo*
 
-![SketchSpeak Demo](https://github.com/kripat06/SketchSpeak/blob/a55393ec52a6dea13e72e4cdce9f69c3cc0d3a29/images/potato_demo_small.gif)
+![SketchSpeak Demo](https://github.com/kripat06/SketchSpeak/blob/37f494ebdf58a79272edc4f55518ac248a07d110/images/potato_demo_readme.gif)
 
 *Currently in Development*
 
